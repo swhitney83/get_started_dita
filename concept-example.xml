@@ -26,6 +26,6 @@
 <p>Keep your tools organized in a tool box.</p></conbody>
 <related-links>
 <link href="task-example.xml" format="dita" type="task"></link>
-<link href="../tasks/organizing.xml" format="dita" type="task"></link>
+<link href="reference-example.xml" format="dita" type="reference"></link>
 </related-links>
 </concept>

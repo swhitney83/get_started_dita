@@ -39,7 +39,7 @@ will help keep the engine in good condition. </p>
     </steps>
   </taskbody>
   <related-links>
-    <link format="dita" href="../concepts/oil.xml" type="concept"/>
-    <link format="dita" href="../concepts/wwfluid.xml" type="concept"/>
+    <link format="dita" href="concept-example.xml" type="concept"/>
+    <link format="dita" href="reference-example.xml" type="concept"/>
   </related-links>
 </task>

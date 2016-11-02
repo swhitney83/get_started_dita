@@ -7,25 +7,12 @@
 <!DOCTYPE concept
   PUBLIC '-//OASIS//DTD DITA Concept//EN'
   'http://docs.oasis-open.org/dita/v1.2/cs01/dtd1.2/technicalContent/dtd/concept.dtd'>
-<concept id="toolsconcept" xml:lang="en-us">
-<title>Tools</title>
-<shortdesc>Invest in a good set of tools for doing all kinds of tasks around the house.</shortdesc>
-<conbody><p>Useful tools include the following items:</p>
-<ul>
-  <li>Hammer</li>
-  <li>Screw driver set</li>
-  <li>Wrench set</li>
-  <li>Nails and screws</li>
-  <li>Level</li>
-  <li>Saws</li>
-  <li>Drill</li>
-  <li>Air pressure guage</li>
-  <li>Spade</li>
-  <li>Rake</li>
-</ul>
-<p>Keep your tools organized in a tool box.</p></conbody>
-<related-links>
-<link href="task-example.xml" format="dita" type="task"></link>
-<link href="reference-example.xml" format="dita" type="reference"></link>
-</related-links>
+<concept id="sample_concept" xml:lang="en-US">
+  <author>Your name</author>
+  <title>My Abstract</title>
+  <shortdesc>My Abstract</shortdesc>
+  <conbody>
+    <p>First paragraph</p>
+    <p>Second paragraph</p>
+  </conbody>
 </concept>

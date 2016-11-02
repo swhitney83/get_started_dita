@@ -6,7 +6,8 @@
  *-->
 <!DOCTYPE concept
   PUBLIC '-//OASIS//DTD DITA Concept//EN'
-  'http://docs.oasis-open.org/dita/v1.2/cs01/dtd1.2/technicalContent/dtd/concept.dtd'>
+  'dtd1.2/technicalContent/dtd/concept.dtd'>
+
 <concept id="sample_concept" xml:lang="en-US">
   <author>Your name</author>
   <title>My Abstract</title>

@@ -1,4 +1,4 @@
-# get_started_dita
+# Get Started with DITA
 
 Fork this repository to get started using DITA. 
 

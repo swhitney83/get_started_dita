@@ -12,8 +12,9 @@
   <refbody>
     <section id="out-of-memory-error">
       <title>Out of Memory error</title>
-      <p>In some cases, you might receive a message stating the build has failed due to an <msgph>Out of Memory</msgph>
-        error. Try the following approaches to resolve the problem:</p>
+      <p>Change. In some cases, you might receive a message stating the build has failed due to an
+          <msgph>Out of Memory</msgph> error. Try the following approaches to resolve the
+        problem:</p>
       <ol>
         <li>Increase the memory available to Java.</li>
         <li>Reduce memory consumption by setting the <option>generate-debug-attributes</option> option to

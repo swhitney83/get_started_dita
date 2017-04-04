@@ -9,7 +9,6 @@
   'dtd1.2/technicalContent/dtd/concept.dtd'>
 
 <concept id="sample_concept" xml:lang="en-US">
-  <author>Your name</author>
   <title>My Abstract</title>
   <shortdesc>My Abstract</shortdesc>
   <conbody>

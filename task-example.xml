@@ -40,6 +40,6 @@ your car.</shortdesc>
   </taskbody>
   <related-links>
     <link format="dita" href="concept-example.xml" type="concept"/>
-    <link format="dita" href="reference-example.xml" type="concept"/>
+    <link format="dita" href="reference-example.xml" type="reference"/>
   </related-links>
 </task>

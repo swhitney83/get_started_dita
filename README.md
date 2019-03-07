@@ -2,4 +2,4 @@
 
 Fork this repository to get started using DITA. 
 
-The repository has example concept, task, and reference topics.
+The repository has example concept, task, and reference topics, as well as a DITA Map.

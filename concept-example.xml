@@ -9,11 +9,11 @@
   'dtd1.2/technicalContent/dtd/concept.dtd'>
 
 <concept id="sample_concept" xml:lang="en-US">
-  <title>Title</title>
-  <shortdesc>My Abstract</shortdesc>
+  <title>Quotes</title>
+  <shortdesc>From Fed Chairmen</shortdesc>
   <conbody>
-    <p>First paragraph</p>
-    <p>Second paragraph</p>
-    <p>Third paragraph</p>
+    <p>We really can't forecast all that well, and yet we pretend that we can, but we really can't.</p>
+    <p>Corruption, embezzlement, fraud, these are all characteristics which exist everywhere. It is regrettably the way human nature functions, whether we like it or not. What successful economies do is keep it to a minimum. No one has ever eliminated any of that stuff.</p>
+    <p>The central bank needs to be able to make policy without short term political concerns.</p>
   </conbody>
 </concept>

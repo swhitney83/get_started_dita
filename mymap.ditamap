@@ -1,8 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
- <title/>
- <topicref href="concept-example.xml"/>
- <topicref href="task-example.xml"/>
- <topicref href="reference-example.xml"/>
+    <title>Nail Maintenance</title>
+    <?xml version="1.0" encoding="utf-8"?>
+    <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+    <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+    <!DOCTYPE concept
+  PUBLIC '-//OASIS//DTD DITA Concept//EN'
+  'dtd1.2/technicalContent/dtd/concept.dtd'>
+  
+    <concept>
+        <title>Maintenance is  Important</title>
+        <shortdesc>By keeping your nails maintained you will be able to grow long, strong nails.</shortdesc>
+        <conbody>
+            <p>Healthy cuticles prevents peeling nails.</p>
+            <p>Proper filing prevents weak nails</p>
+            <p>Proper cuticle maintenance prevents damanged nail bed</p>
+        </conbody>
+    </concept>
+    <?xml version="1.0" encoding="utf-8"?>
+    <!DOCTYPE task
+  PUBLIC '-//OASIS//DTD DITA Task//EN'
+  'dtd1.2/technicalContent/dtd/task.dtd'>
+    <!-- This file is part of the DITA Open Toolkit project hosted on 
+     Sourceforge.net. See the accompanying license.txt file for 
+     applicable licenses.-->
+    <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
+ *-->
+    <task>
+        <title>Maintain your nails</title>
+        <shortdesc>Maintain your nails once a week</shortdesc>
+        <taskbody>
+            <context>
+                <p>By regularly maintaining your nails you avoid short, brittle nail syndrome.</p>
+            </context>
+            <steps>
+                <stepsection>To maintain your nails:</stepsection>
+                <step>
+                    <cmd>Remove your old polish.</cmd>
+                </step>
+                <step>
+                    <cmd>Soak your cuticles in cuticle remove.</cmd>
+                </step>
+                <step>
+                    <cmd>Remove the cuticles using a wooden pusher and a shaver.</cmd>
+                </step>
+                <step>
+                    <cmd>File your nails using proper filing form.</cmd>
+                </step>
+                <step>
+                    <cmd>Add a protective base coat to your nail bed.</cmd>
+                </step>
+                <step>
+                    <cmd>Soak cuticles in cuticle oil.</cmd>
+                </step>
+            </steps>
+        </taskbody>
+        <?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+        <topic id="topic_cdz_5yv_kx">
+            <title>Movies</title>
+            <body>
+                <p>To insert a new videos into your topics, use the <uicontrol>Insert Media</uicontrol>
+                    button from the toolbar. If your movie is already published on YouTube and you want to
+                    refer it in your documentation, make sure you select the <uicontrol>iframe</uicontrol>
+                    option, and set as URL the value from the YouTube embed code for that video clip. To
+                    find out the embed code, you should use the "Copy/Get embed code" action from the
+                    player's contextual menu. Paste it into a text document, then collect the value of the
+                    <codeph>iframe/@src</codeph> attribute value and use it as the URL value in the
+                    <uicontrol>Insert Media</uicontrol> dialog.</p>
+            </body>
+            <related-links>
+                <link href="aeronautics.dita"/>
+                <link href="deep_space_exploration.dita"/>
+            </related-links>
+        </topic>  
 </map>

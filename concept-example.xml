@@ -9,11 +9,11 @@
   'dtd1.2/technicalContent/dtd/concept.dtd'>
 
 <concept id="sample_concept" xml:lang="en-US">
-  <title>Title</title>
-  <shortdesc>My Abstract</shortdesc>
+  <title>Importance</title>
+  <shortdesc>Having a nail care routine is important.</shortdesc>
   <conbody>
-    <p>First paragraph</p>
-    <p>Second paragraph</p>
-    <p>Third paragraph</p>
+    <p>By keeping your cuticles healthy you will grow strong nails. </p>
+    <p>By regularly filing nails you will grow longer nails. </p>
+    <p>By using a protective base coat you will protect your nails.</p>
   </conbody>
 </concept>

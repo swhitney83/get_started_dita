@@ -8,33 +8,29 @@
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
  *-->
 <task id="changeoil" xml:lang="en-us">
-  <title>Changing the oil in your car</title>
-  <shortdesc>Once every 6000 kilometers or three months, change the oil in
-your car.</shortdesc>
+  <title>Maintaining Your Nails</title>
+  <shortdesc>By regularly maintaining your nails you will always have healthy, strong nails. </shortdesc>
   <taskbody>
-    <context>
-      <p>Changing the oil regularly will help keep the engine in good condition.  Do it every three
-        months.</p>
-    </context>
+    <context>Maintain your nails once a week.</context>
     <steps>
-      <stepsection>To change the oil:</stepsection>
+      <stepsection>To maintain your nails:</stepsection>
       <step>
-        <cmd>Remove the old oil filter.</cmd>
+        <cmd>Remove the old polish.</cmd>
       </step>
       <step>
-        <cmd>Drain the old oil.</cmd>
+        <cmd>Soak your cuticles in cuticle remover.</cmd>
       </step>
       <step>
-        <cmd>Install a new oil filter and gasket.</cmd>
+        <cmd>Use a wooden pusher and a cuticle shave to remove old cuticles</cmd>
       </step>
       <step>
-        <cmd>Add new oil to the engine.</cmd>
+        <cmd>File nails using proper form.</cmd>
       </step>
       <step>
-        <cmd>Check the air filter and replace or clean it.</cmd>
+        <cmd>Add a protective base coat to your nails.</cmd>
       </step>
       <step>
-        <cmd>Top up the windshield washer fluid.</cmd>
+        <cmd>Soak cuticles in cuticle oil.</cmd>
       </step>
     </steps>
   </taskbody>
